@@ -1,5 +1,6 @@
 require 'rspec'
-require 'todo'
+require 'task'
+require 'list'
 
 describe Task do
   it 'is initialized with a description' do

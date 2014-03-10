@@ -1,4 +1,5 @@
-require './lib/todo'
+require './lib/task'
+require './lib/list'
 
 @lists = []
 @current_list
